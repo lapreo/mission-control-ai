@@ -62,7 +62,7 @@ Abra o notebook diretamente no Google Colab:
 
 ## Video de Demonstracao
 
-[Assistir ao video]()
+[Assistir ao video](https://youtu.be/AL-r_Kuxtd8)
 
 # link: 
 
